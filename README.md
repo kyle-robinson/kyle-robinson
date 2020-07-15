@@ -1,8 +1,9 @@
-<img align="right" width="140" height="200" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png">
+<img align="right" width="100" height="100" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/male-technologist_1f468-200d-1f4bb.png">
+<!-- <img align="right" width="140" height="200" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png"> -->
 
 # Hi, I'm Kyle!  ![](https://slackmojis.com/emojis/354-doom_look/download)<!-- ![](DoomGuy.gif) -->
 
-:video_game: Games Programming
+:videogame:<img src="" width="15" height="15"></img> Games Programming
 - :computer: C++ | OpenGL | DirectX
 
 ### Recent Projects
