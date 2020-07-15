@@ -1,8 +1,12 @@
 # Hi, I'm Kyle! ![](DoomGuy.gif)
 
+Introduction
+
+### Recent Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-tutorials)](https://github.com/kyle-robinson/opengl-tutorials) &nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting)](https://github.com/kyle-robinson/opengl-lighting)
 
+### Social Media
 [![Website URL](https://img.shields.io/badge/Portfolio--lightgrey?logo=nintendo-gamecube&amp;style=social)](https://kyle-robinson.github.io/portfolio/index.html) &nbsp;
 [![LinkedIn URL](https://img.shields.io/badge/Connect--lightgrey?logo=linkedin&amp;style=social)](https://www.linkedin.com/in/kylerobinsongames/) &nbsp;
 [![Twitter URL](https://img.shields.io/twitter/follow/KyleRobinson42?label=Follow&style=social)](https://twitter.com/KyleRobinson42) &nbsp;
