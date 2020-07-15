@@ -1,6 +1,6 @@
 # Hi, I'm Kyle! ![](DoomGuy.gif)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-tutorials)](https://github.com/kyle-robinson/opengl-tutorials)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-tutorials)](https://github.com/kyle-robinson/opengl-tutorials) &nbsp;
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting)](https://github.com/kyle-robinson/opengl-lighting)
 
 [![Website URL](https://img.shields.io/badge/Portfolio--lightgrey?logo=nintendo-gamecube&amp;style=social)](https://kyle-robinson.github.io/portfolio/index.html) &nbsp;
