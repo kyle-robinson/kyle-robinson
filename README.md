@@ -2,11 +2,12 @@
 
 # Hi, I'm Kyle!  ![](https://slackmojis.com/emojis/354-doom_look/download)<!-- ![](DoomGuy.gif) -->
 
-Computer Games Programmer
+:video_game: Games Programming
+- :computer: C++ | OpenGL | DirectX
 
 ### Recent Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-tutorials)](https://github.com/kyle-robinson/opengl-tutorials) &nbsp;
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting)](https://github.com/kyle-robinson/opengl-lighting)
+[![OpenGL Tutorials Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-tutorials)](https://github.com/kyle-robinson/opengl-tutorials) &nbsp;
+[![OpenGL Lighting Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting)](https://github.com/kyle-robinson/opengl-lighting)
 
 ---
 
