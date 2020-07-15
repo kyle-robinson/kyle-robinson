@@ -1,5 +1,5 @@
 <!-- <img align="right" width="100" height="100" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/male-technologist_1f468-200d-1f4bb.png"> -->
-<img align="right" width="240" height="300" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png">
+<img align="right" width="200" height="260" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png">
 
 # Hi, I'm Kyle! :wave: <!-- ![](https://slackmojis.com/emojis/354-doom_look/download) -->
 
