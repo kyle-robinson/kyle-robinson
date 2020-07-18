@@ -1,4 +1,4 @@
-<a title="Secret!" href="https://youtu.be/BSsfjHCFosw"><img align="right" width="200" height="260" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png"></a>
+<a title="Secret... Enjoy!" href="https://www.retrogames.cz/play_414-DOS.php?language=EN"><img align="right" width="200" height="260" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png"></a>
 
 # Hi, I'm Kyle! :wave:
 
