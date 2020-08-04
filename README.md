@@ -10,7 +10,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
 ### Recent Projects
 A few repositories that I've been working on recently.
 
-[![OpenGL Tutorials Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-tutorials)](https://github.com/kyle-robinson/opengl-tutorials) &nbsp;
+[![Breakout Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=breakout)](https://github.com/kyle-robinson/breakout) &nbsp;
 [![OpenGL Lighting Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting)](https://github.com/kyle-robinson/opengl-lighting)
 
 ---
