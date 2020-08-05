@@ -10,12 +10,33 @@ I'm a computer games programmer :video_game: currently studying at university :s
 ### Recent Projects
 A few repositories that I've been working on recently.
 
-[![Breakout Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=breakout)](https://github.com/kyle-robinson/breakout) &nbsp;
-[![OpenGL Lighting Card](https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting)](https://github.com/kyle-robinson/opengl-lighting)
+[![Breakout Repo]][Breakout URL] &nbsp;
+[![OpenGL Lighting Repo]][OpenGL Lighting URL]
 
 ---
 
-[![Website URL](https://img.shields.io/badge/Website--lightgrey?logo=nintendo-gamecube&amp;style=social)](https://kyle-robinson.co.uk) &nbsp;
-[![LinkedIn URL](https://img.shields.io/badge/Connect--lightgrey?logo=linkedin&amp;style=social)](https://www.linkedin.com/in/kylerobinsongames/) &nbsp;
-[![Twitter URL](https://img.shields.io/twitter/follow/KyleRobinson42?label=Follow&style=social)](https://twitter.com/KyleRobinson42) &nbsp;
-[![YouTube URL](https://img.shields.io/badge/YouTube--lightgrey?logo=youtube&amp;style=social)](https://www.youtube.com/channel/UCU0mqPtBF4Z8TyZ3Pc6FPbQ/)
+<!-- Badges -->
+[![Website Logo]][Website URL] &nbsp;
+[![LinkedIn Logo]][LinkedIn URL] &nbsp;
+[![Twitter Logo]][Twitter URL] &nbsp;
+[![YouTube Logo]][YouTube URL]
+
+
+<!-- In-Page Links -->
+[Breakout URL]: https://github.com/kyle-robinson/breakout
+[Breakout Repo]: https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=breakout
+
+[OpenGL Lighting URL]: https://github.com/kyle-robinson/opengl-lighting
+[OpenGL Lighting Repo]: https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting
+
+[Website URL]: https://kyle-robinson.co.uk
+[Website Logo]: https://img.shields.io/badge/Website--lightgrey?logo=nintendo-gamecube&amp;style=social
+
+[LinkedIn URL]: https://www.linkedin.com/in/kylerobinsongames/
+[LinkedIn Logo]: https://img.shields.io/badge/Connect--lightgrey?logo=linkedin&amp;style=social
+
+[Twitter URL]: https://twitter.com/KyleRobinson42
+[Twitter Logo]: https://img.shields.io/twitter/follow/KyleRobinson42?label=Follow&style=social
+
+[YouTube URL]: https://www.youtube.com/channel/UCU0mqPtBF4Z8TyZ3Pc6FPbQ/
+[YouTube Logo]: https://img.shields.io/badge/YouTube--lightgrey?logo=youtube&amp;style=social
