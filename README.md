@@ -16,11 +16,7 @@ A few repositories that I've been working on recently.
 ---
 
 <!-- Badges -->
-[![Website Logo]][Website URL] &nbsp;
-[![LinkedIn Logo]][LinkedIn URL] &nbsp;
-[![Twitter Logo]][Twitter URL] &nbsp;
-[![YouTube Logo]][YouTube URL]
-
+<p align="center">[![Website Logo]][Website URL] [![LinkedIn Logo]][LinkedIn URL] [![Twitter Logo]][Twitter URL] [![YouTube Logo]][YouTube URL]</p>
 
 <!-- In-Page Links -->
 [Breakout URL]: https://github.com/kyle-robinson/breakout
