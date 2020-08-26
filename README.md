@@ -15,6 +15,12 @@ A few repositories that I've been working on recently.
 
 ---
 
+### Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 <!-- Badges -->
 [![Website Logo]][Website URL] &nbsp;
 [![LinkedIn Logo]][LinkedIn URL] &nbsp;
