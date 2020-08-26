@@ -17,6 +17,11 @@ A few repositories that I've been working on recently.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[C++ | OpenGL] Sonic Breakout](https://www.youtube.com/watch?v=K1eCgV0rLbk)
+- [[C++ | OpenGL] Water Simulation](https://www.youtube.com/watch?v=A8t_IfXH7vo)
+- [[C++ | OpenGL] Physics Based Rendering *Updated*](https://www.youtube.com/watch?v=4uiWzZIIg3A)
+- [[C++ | OpenGL] Physics Based Rendering](https://www.youtube.com/watch?v=FHwgLT1tv6g)
+- [[C++ | OpenGL] Screen-Space Ambient Occlusion](https://www.youtube.com/watch?v=nW3rNzkWNmU)
 <!-- YOUTUBE:END -->
 
 ---
