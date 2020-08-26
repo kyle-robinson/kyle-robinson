@@ -43,7 +43,7 @@ A few repositories that I've been working on recently.
 [LinkedIn Logo]: https://img.shields.io/static/v1?label=Kyle-Robinson&message=Connect&color=0077B5&style=for-the-badge&logo=linkedin
 
 [Twitter URL]: https://twitter.com/KyleRobinson42
-[Twitter Logo]: https://img.shields.io/twitter/follow/KyleRobinson42?color=1DA1F2&label=Follow%20%40KyleRobinson42&logo=Twitter&style=for-the-badge
+[Twitter Logo]: https://img.shields.io/twitter/follow/KyleRobinson42?color=1DA1F2&label=Follow&logo=Twitter&style=for-the-badge
 
 [YouTube URL]: https://www.youtube.com/channel/UCU0mqPtBF4Z8TyZ3Pc6FPbQ/
 [YouTube Logo]: https://img.shields.io/static/v1?label=Channel&message=Watch&color=FF0000&style=for-the-badge&logo=youtube&logoColor=FF0000
