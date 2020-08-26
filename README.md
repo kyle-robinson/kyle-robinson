@@ -7,7 +7,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
 - OpenGL
 - DirectX
 
-### Recent Projects
+### 📝 Recent Projects
 A few repositories that I've been working on recently.
 
 [![Breakout Repo]][Breakout URL] &nbsp;
@@ -15,13 +15,15 @@ A few repositories that I've been working on recently.
 
 ---
 
-### Latest YouTube Videos
+### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 
 <!-- Badges -->
+
+### 💬 Social Links
 [![Website Logo]][Website URL] &nbsp;
 [![LinkedIn Logo]][LinkedIn URL] &nbsp;
 [![Twitter Logo]][Twitter URL] &nbsp;
