@@ -26,7 +26,6 @@ A few repositories that I've been working on recently.
 
 ---
 
-### 💬 Social Links
 [![Website Logo]][Website URL] &nbsp;
 [![LinkedIn Logo]][LinkedIn URL] &nbsp;
 [![Twitter Logo]][Twitter URL] &nbsp;
