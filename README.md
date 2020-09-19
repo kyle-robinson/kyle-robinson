@@ -10,8 +10,8 @@ I'm a computer games programmer :video_game: currently studying at university :s
 ### 📝 Recent Projects
 A few repositories that I've been working on recently.
 
-[![Breakout Repo]][Breakout URL] &nbsp;
-[![OpenGL Lighting Repo]][OpenGL Lighting URL]
+[![DirectX Engine Repo]][DirectX Engine URL] &nbsp;
+[![Breakout Repo]][Breakout URL]
 
 ---
 
@@ -33,11 +33,11 @@ A few repositories that I've been working on recently.
 
 <!-- ### IN-PAGE LINKS ### -->
 <!-- Repo Links -->
+[DirectX Engine URL]: https://github.com/kyle-robinson/opengl-directx-engine
+[DirectX Engine Repo]: https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=directx-engine
+
 [Breakout URL]: https://github.com/kyle-robinson/breakout
 [Breakout Repo]: https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=breakout
-
-[OpenGL Lighting URL]: https://github.com/kyle-robinson/opengl-lighting
-[OpenGL Lighting Repo]: https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=opengl-lighting
 
 <!-- Social Links -->
 [Website URL]: https://kyle-robinson.co.uk
