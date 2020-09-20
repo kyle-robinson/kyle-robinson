@@ -25,7 +25,7 @@ A few repositories that I've been working on recently.
 <!-- YOUTUBE:END -->
 
 ---
-<span align="center">
+<p align="center">
   <a href="https://kyle-robinson.co.uk">
     <img src="https://img.shields.io/static/v1?label=Portfolio&message=View&color=FB5BC5&style=flat&logo=html5&logoColor=FB5BC5" />
   </a>
@@ -41,7 +41,7 @@ A few repositories that I've been working on recently.
   <a href="https://www.youtube.com/channel/UCU0mqPtBF4Z8TyZ3Pc6FPbQ/">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
   </a>
-</span>
+</p>
 
 <!-- [![Website Logo]][Website URL] &nbsp;
 [![LinkedIn Logo]][LinkedIn URL] &nbsp;
