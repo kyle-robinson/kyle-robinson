@@ -8,7 +8,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
 - DirectX
 
 ### 📝 Recent Projects
-A few repositories that I've been working on recently.
+A few repositories that I've making recent commits to.
 
 [![DirectX Engine Repo]][DirectX Engine URL] &nbsp;
 [![Breakout Repo]][Breakout URL]
