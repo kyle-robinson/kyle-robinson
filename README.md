@@ -20,7 +20,7 @@ A few repositories that I've making recent commits to. -->
 [![Breakout Repo]][Breakout URL]
 </details>
 
----
+
 
 <details>
   <summary>📺 <strong>Latest YouTube Videos</strong></summary>
@@ -35,7 +35,8 @@ A few repositories that I've making recent commits to. -->
   
 </details>
 
----
+
+
 <p align="center">
   <a href="https://kyle-robinson.co.uk">
     <img src="https://img.shields.io/static/v1?label=Portfolio&message=View&color=6E46AE&style=flat&logo=html5&logoColor=white" />
