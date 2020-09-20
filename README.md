@@ -1,4 +1,6 @@
-<a title="Secret... Enjoy!" href="https://www.retrogames.cz/play_414-DOS.php?language=EN"><img align="right" width="120" height="160" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png"></a>
+<a title="Secret... Enjoy!" href="https://www.retrogames.cz/play_414-DOS.php?language=EN">
+  <img align="right" width="120" height="160" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png">
+</a>
 
 # Hi, I'm Kyle! 👋🏻
 
@@ -7,22 +9,31 @@ I'm a computer games programmer :video_game: currently studying at university :s
 - OpenGL
 - DirectX
 
-### 📝 Recent Projects
-A few repositories that I've making recent commits to.
+<details>
+  <summary>📝 <strong>Recent Projects</strong></summary>
+  <p>A few repositories that I've making recent commits to.</p>
+
+<!-- ### 📝 Recent Projects
+A few repositories that I've making recent commits to. -->
 
 [![DirectX Engine Repo]][DirectX Engine URL] &nbsp;
 [![Breakout Repo]][Breakout URL]
+</details>
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [[C++ | DirectX] DirectX 11 Graphics Engine](https://www.youtube.com/watch?v=kBCMbxa0S98)
-- [[C++ | OpenGL] Sonic Breakout](https://www.youtube.com/watch?v=K1eCgV0rLbk)
-- [[C++ | OpenGL] Water Simulation](https://www.youtube.com/watch?v=A8t_IfXH7vo)
-- [[C++ | OpenGL] Physics Based Rendering *Updated*](https://www.youtube.com/watch?v=4uiWzZIIg3A)
-- [[C++ | OpenGL] Physics Based Rendering](https://www.youtube.com/watch?v=FHwgLT1tv6g)
-<!-- YOUTUBE:END -->
+<details>
+  <summary>📺 <strong>Latest YouTube Videos</strong></summary>
+  
+  <!-- YOUTUBE:START -->
+  - [[C++ | DirectX] DirectX 11 Graphics Engine](https://www.youtube.com/watch?v=kBCMbxa0S98)
+  - [[C++ | OpenGL] Sonic Breakout](https://www.youtube.com/watch?v=K1eCgV0rLbk)
+  - [[C++ | OpenGL] Water Simulation](https://www.youtube.com/watch?v=A8t_IfXH7vo)
+  - [[C++ | OpenGL] Physics Based Rendering *Updated*](https://www.youtube.com/watch?v=4uiWzZIIg3A)
+  - [[C++ | OpenGL] Physics Based Rendering](https://www.youtube.com/watch?v=FHwgLT1tv6g)
+  <!-- YOUTUBE:END -->
+  
+</details>
 
 ---
 <p align="center">
