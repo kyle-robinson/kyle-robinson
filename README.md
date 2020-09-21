@@ -1,4 +1,4 @@
-<a title="Secret... Enjoy!" href="https://www.retrogames.cz/play_414-DOS.php?language=EN">
+<a title="You found a secret... enjoy!" href="https://www.retrogames.cz/play_414-DOS.php?language=EN">
   <img align="right" width="120" height="160" src="https://files.gamebanana.com/img/ico/sprays/5af742268da32.png">
 </a>
 
@@ -54,6 +54,12 @@ I'm a computer games programmer :video_game: currently studying at university :s
   - [[C++ | OpenGL] Physics Based Rendering](https://www.youtube.com/watch?v=FHwgLT1tv6g)
   <!-- YOUTUBE:END -->
   
+</details>
+
+<!-- GITHUB STATS -->
+<details>
+  <summary>📈 <strong>GitHub Stats</strong></summary> <br />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kyle-robinson&show_icons=true"></a>
 </details>
 
 ---
