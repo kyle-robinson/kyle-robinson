@@ -34,8 +34,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
   <summary>📝 <strong>Recent Projects</strong></summary> <br />
   <p>A few repositories that I've making recent commits to.</p>
   <a href="https://github.com/kyle-robinson/directx-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson
-              repo=directx-engine" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=directx-engine" />
   </a>
   <a href="https://github.com/kyle-robinson/breakout">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=breakout" />
