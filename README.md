@@ -59,8 +59,8 @@ I'm a computer games programmer :video_game: currently studying at university :s
 <!-- GITHUB STATS -->
 <details>
   <summary>📈 <strong>GitHub Stats</strong></summary> <br />
-  <a href="#"><img height="40%" src="https://github-readme-stats.vercel.app/api?username=kyle-robinson&show_icons=true" /></a> &nbsp;
-  <a href="#"><img height="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-robinson&layout=compact" /></a>
+  <a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=kyle-robinson&show_icons=true" /></a> &nbsp;
+  <a href="#"><img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyle-robinson&layout=compact" /></a>
 </details>
 
 ---
