@@ -27,6 +27,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
   <a href="#"><img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/obs studio%20-%23302E31.svg?&style=for-the-badge&logo=obs-studio&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/davinci resolve%20-%23DED36C.svg?&style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACMAAAAkCAYAAAAD3IPhAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JQAAgIMAAPn%2FAACA6QAAdTAAAOpgAAA6mAAAF2%2BSX8VGAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AkUFCIPv0gBkAAACJFJREFUWMOtWG1sU9cZfs651x83iRPHThxDCISPfGmAVGQoRGhrsiJSsQxpoHVDYxLTRCPxBwZD%2FByDRWKTIqEhJLKPav2xlmmoXWGkHWxsgzR8pSlJCcw4YaEBktixrxOb6%2FtxztmPhBASx3arPdKVLN%2Fzvuc57%2FN%2BHF2CHNDW1gaPx0P6%2B%2FvLE4nEZtM0GwzDWMc5X8o59zDGZEmSGKU0Sikdstlsn8qyfMXlcnXW1NQMq6oqDh06lHUfkulla2sr%2FH4%2FuXPnTl0ikfi%2BruvbDcOosizLyTmHEGK%2BQ0JAKYUsyym73R6y2%2B0fulyuP65du%2FZeOBzmR44c%2BXJk2tvbcf36dXi93tJoNLpX07S9uq4vtSwrl0C%2BBFmW4XA4vlAU5TdFRUVnJiYmxhYtWoRjx47NW0vTSdLS0gJFUQIjIyPvqqr682Qy%2BZWIAIBlWUgmkxWqqv4sHA6ftdlsrx47dgxtbW3z1kpzZTl8%2BDBaWlreiMViv0smkwHOeQYpBQgXIGLqmYpz%2BuWcc2IYRiVjrHHz5s2Dx48fDxqGgWvXrs2Xqa2tDadPn8aWLVveiMViZzRNq8h4ZCHAHU7oJYth5rsgP0vAGX4MqqcAkjEV4XQ6H7vd7rcuXrz41%2F379%2BPgwYMvyBw%2FfhyhUAiKoqyLxWLvappWnY1IqmwJnmxsQsy%2FDJZkg8wsFI%2F8F4u7PoJzbDgrIUVRQsXFxbvi8fito0ePoqqqakqmNWvWwOVyeSORyGlN017NRsQs8mLw9e9hZNEK6CBgAHRCMekuhelbgqLhEKTUs4yEGGMezvkKn8%2FX0dXV9ezmzZugR48excmTJzE%2BPv6jVCq1JV25zgYBEKldh3BJOQRjMzoTAIIxjJWUI1K7LnPPACCEgKZpjbFYbO%2BpU6fQ2toKqaamBps2bapSVbXNNE1vFh%2FgNjsevdKAZKFnKmnnbkIICBcoGewD4TwbIcI5X97Q0PBxNBqN0HPnziEej79pGMaqbEQAQFAKU7YDCwVQAJZsgyA0F3cwTXP5xMTEm%2B3t7aC7d%2B8u03V9ezZ5noOaBhxqeOHeTQDn%2BCioqefkTwiBVCq1%2FcCBA4upqqobTdOszckSAGUM3lAvJMNIy0TSU%2FA8%2BAw0i0SzYVlWTSwWq6eGYbzGOS%2FI1VBQCu8XQRQP9kHQl6UQhMAb7IHnyeC8d5nAOc8zDOMb1DTNQM5W05C5hYpbl6GEn8zkhiAU%2BaOPUNH9D9hE7lGZFZ0AtSyr8ktbEoqieBiVV%2F8C%2B2QMQpLgjEew%2FN8fwJVQIUi2wk5LplKqq6trFULICy0SYurhXMz8BggIocibGIekRqDnubC06yJ8TwdBqAQOgGMqOaeWT5HLRFGSJIfMGHMuSIQDeQUUFZV2eEokgBAkJhmiYQuxcYZnScA%2FdB%2FFwyE4uAVQCXmUokSSUCLLKKQUAkCEMTw0DCQ4x0KZZFmWTaaUcs45TUdk2So7duwuxMo6CXYHAAgwRqAlgfCIQPCugb%2Bfn0R03ILXZkNzQQG%2BZrPBTwjyAUjT7cIgBP2M4Z1EAgOGkZYQpVTIlFKVc%2B6ZK43XJ%2BMHLYVYWQ0wmC%2FCKQOuIqCoiGBJhYzPblBEIoCPEDRRijzLeq7lDBwAXqEU%2BQUF%2BGU8jvCsMTKLTJxSSkfS5cn6zQ4srxZgmF8ZAoCAwOiYjtGnJigleGpZGDOMeURmwDmqhcBmpzNt8yaEPKV2u71%2F7gtZBpZXUVBk7soP7pqYjAtQAsSFwF3TzLgenKOaEKSrFofDcZ86nc5rhBCWxjKj31RKoOeGATF9EeSE4KZpIpVlrAg2fytCCFMUpYuWlJRctdlsL0llWQIPQ%2BaCcZEA%2FOdzHQP3Gaj04r97nOPztGPiBUKWhbm3aZvNFvZ6vf%2Bkzc3N%2FS6Xq2sOU9y6pmPooQlpTqpRABNxjo%2FefwZde9mpBuB9TUM83VwiBA9NE9cMY17yulyu61u3br0r6bpuVVZWyqqqNjPGpGk7JBPA0EAKvnKKYo8EmRIIAYTHLPz5DxPovcVB58wfSgjGhEDUMLBClpFPKQgASwj06zraEwk8IgR0Vod2OBxGZWXlLy5dutRDzp49i8LCQs%2BFCxfODQ8PvzbbOWMcSh7DyloJpX4JyQTHwH2G8TECSZKwEBhj8HGOOklCPiEY4Rz3GcMzWYY05wBLliz517Zt274zOTkZJaOjozh06BACgcC3bt%2B%2B%2FU48Hi8ms5gLMUVKcAEQAkkioDT77OFCgAkBIQQoIZCmo%2FTCr4Db7Z4MBAI%2F7O7u%2FuDEiROQy8rKcOPGDWzYsOHj1tbW3%2Ff29v5E0zTynBAhgCznfh2YLRldYGAKIaAoiqipqXl73759F3t6euD3%2B6fICiHQ0dGB4uJif0dHx5n%2B%2Fv5vG4YB8hWmbzYIIWC321FbW%2FthU1PTW9FodKS5uRmEkBeRE0LgvffeQ1lZWXVnZ%2BfbfX199alU6v9KSAgBp9OJ1atXf1JfX79ndHQ0uGvXrpk9ZuJPCMGOHTvQ19cXbGxs3LN%2B%2Ffrzbreb53o3zoWI2%2B3mgUDgfENDw56%2Bvr7gzp07XzosSWd0%2BfJl%2BP1%2BX3d39097e3t%2F%2FOjRI7eu6%2FNKORdwzuFwOFBRURFfu3btbwOBwK%2BGh4dHm5qa5kV9QQ2Ghobg8%2FlsnZ2d37x3797%2BUCj09ZGREUXTNAghpjROI6GYriBCCBRFQVlZmbZq1aqrdXV1v66vr%2F9bJBIxli1blnbPjAkhhMCVK1dQXV1dGAwGXx8aGvru48ePN4bD4cXxeNyWSqVgWRY4588%2FEEFRFBQWFpqlpaVPysvLry9duvRP1dXVl4PB4ERjY2PGHMwpO4UQiEajKCgocAwMDFSNjY3Vq6q6LplMrtJ13ccYK5YkKeZ0Osfy8%2FNDbrf709LS0k9Wrlz5IJFI6B6PJ6dC%2BB95hR4hguYXGwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOS0yMFQyMDozNDoxNS0wNDowMLAtMk0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDktMjBUMjA6MzQ6MTUtMDQ6MDDBcIrxAAAAAElFTkSuQmCC&logoColor=white"></a>
 </details>
 
 <!-- RECENT PROJECTS -->
@@ -46,12 +47,12 @@ I'm a computer games programmer :video_game: currently studying at university :s
   <summary>🎥 <strong>Latest YouTube Videos</strong></summary> <br />
   
   <!-- YOUTUBE:START -->
-- [[C++ | DirectX] DirectX 11 Graphics Engine](https://www.youtube.com/watch?v=kBCMbxa0S98)
-- [[C++ | OpenGL] Sonic Breakout](https://www.youtube.com/watch?v=K1eCgV0rLbk)
-- [[C++ | OpenGL] Water Simulation](https://www.youtube.com/watch?v=A8t_IfXH7vo)
-- [[C++ | OpenGL] Physics Based Rendering *Updated*](https://www.youtube.com/watch?v=4uiWzZIIg3A)
-- [[C++ | OpenGL] Physics Based Rendering](https://www.youtube.com/watch?v=FHwgLT1tv6g)
-<!-- YOUTUBE:END -->
+  - [[C++ | DirectX] DirectX 11 Graphics Engine](https://www.youtube.com/watch?v=kBCMbxa0S98)
+  - [[C++ | OpenGL] Sonic Breakout](https://www.youtube.com/watch?v=K1eCgV0rLbk)
+  - [[C++ | OpenGL] Water Simulation](https://www.youtube.com/watch?v=A8t_IfXH7vo)
+  - [[C++ | OpenGL] Physics Based Rendering *Updated*](https://www.youtube.com/watch?v=4uiWzZIIg3A)
+  - [[C++ | OpenGL] Physics Based Rendering](https://www.youtube.com/watch?v=FHwgLT1tv6g)
+  <!-- YOUTUBE:END -->
   
 </details>
 
