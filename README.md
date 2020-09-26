@@ -65,10 +65,10 @@ I'm a computer games programmer :video_game: currently studying at university :s
 <!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://kyle-robinson.co.uk">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&message=View&color=6E46AE&style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=View&color=6E46AE&style=flat&logo=html5&logoColor=9f63ff" />
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/kylerobinsongames/">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat&logo=linkedin&logoColor=00a8ff" />
   </a> &nbsp;
   <a href="https://stackoverflow.com/users/story/14250876">
     <img src="https://img.shields.io/static/v1?label=StackOverflow&message=View&color=EF8236&style=flat&logo=stack-overflow" />
