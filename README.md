@@ -36,8 +36,8 @@ I'm a computer games programmer :video_game: currently studying at university :s
   <a href="https://github.com/kyle-robinson/directx-engine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=directx-engine" />
   </a> &nbsp;
-  <a href="https://github.com/kyle-robinson/breakout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=breakout" />
+  <a href="https://github.com/kyle-robinson/sonic-breakout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=sonic-breakout" />
   </a>
 </details>
 
