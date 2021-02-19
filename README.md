@@ -80,7 +80,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
   </a> &nbsp;
   <a href="https://www.youtube.com/channel/UCU0mqPtBF4Z8TyZ3Pc6FPbQ/">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
-  </a>
+  </a> &nbsp;
   <a href="https://skyline.github.com/kyle-robinson/2020">
     <img src="https://img.shields.io/static/v1?label=Skyline&message=View&color=181717&style=flat&logo=github&logoColor=181717" />
   </a>
