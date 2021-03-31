@@ -46,11 +46,11 @@ I'm a computer games programmer :video_game: currently studying at university :s
   <summary>🎥 <strong>Latest YouTube Videos</strong></summary> <br />
   
   <!-- YOUTUBE:START -->
+- [[C++ | DirectX] Physics Framework](https://www.youtube.com/watch?v=23r29toUFZo)
 - [[C++ | DirectX] DirectX 11 Graphics Framework](https://www.youtube.com/watch?v=_9_MtRrjU20)
 - [[C++ | SDL2] Mario Bros. Game](https://www.youtube.com/watch?v=LfMLOClO6qs)
 - [[C++ | DirectX] DirectX 11 Graphics Engine](https://www.youtube.com/watch?v=kBCMbxa0S98)
 - [[C++ | OpenGL] Sonic Breakout](https://www.youtube.com/watch?v=K1eCgV0rLbk)
-- [[C++ | OpenGL] Water Simulation](https://www.youtube.com/watch?v=A8t_IfXH7vo)
 <!-- YOUTUBE:END -->
   
 </details>
