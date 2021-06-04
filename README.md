@@ -33,11 +33,11 @@ I'm a computer games programmer :video_game: currently studying at university :s
 <details>
   <summary>📝 <strong>Recent Projects</strong></summary> <br />
   <p>A few repositories that I've making recent commits to.</p>
+  <a href="https://github.com/kyle-robinson/molecularity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=molecularity" />
+  </a> &nbsp;
   <a href="https://github.com/kyle-robinson/physics-framework">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=physics-framework" />
-  </a> &nbsp;
-  <a href="https://github.com/kyle-robinson/directx-framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=directx-framework" />
   </a>
 </details>
 
