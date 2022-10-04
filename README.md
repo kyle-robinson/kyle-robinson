@@ -5,7 +5,7 @@
 # Hi, I'm Kyle! 👋🏻
 
 I'm a computer games programmer :video_game: currently studying at university :school: in the U.K.
-<!-- I'm a computer games programmer :video_game: currently on placement 🏢 at Sumo Digital Ltd. --><br />
+<!-- I'm a computer games programmer :video_game: currently on placement 🏢 at Sumo Digital Ltd. -->
 <!-- Work Account | https://github.com/kyle-robinson-zwift -->
 
 <!-- LANGUAGES AND TOOLS -->
