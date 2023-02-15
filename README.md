@@ -74,7 +74,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
   <a href="https://www.linkedin.com/in/kylerobinsongames/">
     <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat&logo=linkedin&logoColor=00a8ff" />
   </a> &nbsp;
-  <a href="https://www.youtube.com/channel/UCU0mqPtBF4Z8TyZ3Pc6FPbQ/">
+  <a href="https://www.youtube.com/@kylerobinsongames">
     <img src="https://img.shields.io/static/v1?label=YouTube&message=Watch&color=FF0000&style=flat&logo=youtube&logoColor=FF0000" />
   </a> &nbsp;
   <a href="https://twitter.com/KyleRobinson42">
