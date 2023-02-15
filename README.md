@@ -47,7 +47,7 @@ I'm a computer games programmer :video_game: currently studying at university :s
 <details>
   <summary>🎥 <strong>Latest YouTube Videos</strong></summary> <br />
   
-  <!-- YOUTUBE:START -->
+<!-- YOUTUBE:START -->
 - [[C++ | DirectX] Physics Framework](https://www.youtube.com/watch?v=23r29toUFZo)
 - [[C++ | DirectX] DirectX 11 Graphics Framework](https://www.youtube.com/watch?v=_9_MtRrjU20)
 - [[C++ | SDL2] Mario Bros. Game](https://www.youtube.com/watch?v=LfMLOClO6qs)
