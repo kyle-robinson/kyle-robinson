@@ -35,11 +35,11 @@ I'm a computer games programmer :video_game: currently studying at university :s
 <details>
   <summary>📝 <strong>Recent Projects</strong></summary> <br />
   <p>A few repositories that I've making recent commits to.</p>
-  <a href="https://github.com/kyle-robinson/directx-advanced-graphics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=directx-advanced-graphics" />
+  <a href="https://github.com/kyle-robinson/non-euclidean-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=non-euclidean-framework" />
   </a> &nbsp;
-  <a href="https://github.com/kyle-robinson/ray-tracer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyle-robinson&repo=ray-tracer" />
+  <a href="https://github.com/nine-byte-warriors/midnight-harvest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nine-byte-warriors&repo=midnight-harvest" />
   </a>
 </details>
 
