@@ -4,7 +4,7 @@
 
 # Hi, I'm Kyle! 👋🏻
 
-I'm a computer games programmer :video_game: currently studying at university :school: in the U.K.
+I'm a computer games programmer :video_game: and a graduate of Staffordshire University, having studied BSc Computer Games Programming.
 <!-- I'm a computer games programmer :video_game: currently on placement 🏢 at Sumo Digital Ltd. -->
 <!-- Work Account | https://github.com/kyle-robinson-zwift -->
 
