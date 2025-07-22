@@ -4,7 +4,7 @@
 
 # Hi, I'm Kyle! 👋🏻
 
-I'm a Junior Games Programmer :video_game: at Sumo Leamington, and a graduate of Staffordshire University.
+I'm a Games Programmer :video_game: with experience at Sumo Leamington, and a graduate of Staffordshire University.
 <!-- I'm a computer games programmer :video_game: currently on placement 🏢 at Sumo Digital Ltd. -->
 <!-- Work Account | https://github.com/kyle-robinson-zwift -->
 
